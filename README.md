@@ -10,9 +10,9 @@
 - **流式消息传输**: 支持流式传输显示消息，使得AI回复更加自然和及时。
 - **引用网页信息显示**: 项目支持显示被引用的网页信息，增强用户对搜索结果的理解。
 
-## 演示视频
-
-[点击这里查看演示视频](https://your-video-link.com)
+## 演示
+![image](AI Search Frontend.png)
+[点击这里查看演示视频](https://github.com/user-attachments/assets/245df1ea-e84c-4329-b3ec-87c95a9958b2)
 
 ## 安装与使用
 
