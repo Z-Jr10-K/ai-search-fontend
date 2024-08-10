@@ -1,0 +1,21 @@
+.preset-query-link {
+    margin-top: 20px;
+    border: 1px solid rgba(229, 231, 235, 0.5);
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+    display: flex;
+    align-items: center;
+    border-radius: 0.5rem;
+    background-color: #f3f4f6;
+    padding: 0.5rem 0.75rem;
+    font-size: 0.75rem;
+    font-weight: 500;
+    color: #71717a;
+    text-decoration: none;
+  }
+  
+  .preset-query-link:hover {
+    background-color: rgba(229, 231, 235, 0.8);
+    color: #18181b;
+  }

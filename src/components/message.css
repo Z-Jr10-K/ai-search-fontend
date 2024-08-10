@@ -1,0 +1,12 @@
+.wrapper {
+    display: grid;
+    grid-template-columns: 60px auto;
+    align-items: start;
+    margin: 0;
+    min-height: 60px;
+    padding-top: 20px;
+    padding-bottom: 5px;
+    border-radius: 10px;
+    background-color: #FFFFFF;
+  }
+  
